@@ -25,21 +25,9 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Refyrd&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="Refyrd's GitHub Stats" />
-  <img width="12" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Refyrd&theme=bear&hide_border=true&layout=compact" alt="Refyrd's Top Languages" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Refyrd&theme=bear&hide_border=true" alt="Refyrd's GitHub Streak" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy-unserori.vercel.app/?username=Refyrd&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Refyrd's GitHub Trophies" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Refyrd&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="Refyrd's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Refyrd&theme=bear&hide_border=true&layout=compact" alt="Refyrd's Top Languages" />
 </p>
 
 ###
