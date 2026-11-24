@@ -1,9 +1,5 @@
 <h1 align="center">⚡ Refyrd / developer</h1>
 
-<p align="center">
-  Building clean web experiences and lightweight browser mini-games.
-</p>
-
 ###
 
 <div align="center">
@@ -28,15 +24,23 @@
 
 ###
 
-<div align="center">
-  <a href="https://refyrd.github.io">
-    <img src="https://img.shields.io/badge/Refyrd_Games-Play_Hub-0066cc?style=for-the-badge&logo=githubpages&logoColor=white" alt="Refyrd Games" />
-  </a>
-  <img width="8" />
-  <a href="https://github.com/Refyrd/Refyrd.github.io">
-    <img src="https://img.shields.io/badge/Source-Refyrd.github.io-181717?style=for-the-badge&logo=github&logoColor=white" alt="Refyrd.github.io Repository" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Refyrd&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="Refyrd's GitHub Stats" />
+  <img width="12" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Refyrd&theme=bear&hide_border=true&layout=compact" alt="Refyrd's Top Languages" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Refyrd&theme=bear&hide_border=true" alt="Refyrd's GitHub Streak" />
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy-unserori.vercel.app/?username=Refyrd&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Refyrd's GitHub Trophies" />
+</p>
 
 ###
 
